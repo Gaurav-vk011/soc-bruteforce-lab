@@ -155,4 +155,5 @@ The complete incident investigation report (PDF) is available in this repository
 
 ---
 
-*This is a portfolio project created in a controlled lab environment for SOC Analyst L1 / Intern role preparation.*
+*This project demonstrates hands-on SOC detection and investigation 
+skills using Splunk SIEM in a Kali Linux lab environment.*
