@@ -80,7 +80,7 @@ index=main sourcetype=csv user=admin
 | IOC | Value | Tool Used | Result |
 |---|---|---|---|
 | Source IP (Internal) | `192.168.1.50` | AbuseIPDB | Private/RFC1918 range — internal host |
-| Source IP (External) | `45.33.22.11` | AbuseIPDB | Linode hosting — 65 reports on record |
+|
 | Target Account | `admin` | Manual | High-privilege account |
 
 ---
