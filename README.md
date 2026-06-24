@@ -80,7 +80,6 @@ index=main sourcetype=csv user=admin
 | IOC | Value | Tool Used | Result |
 |---|---|---|---|
 | Source IP (Internal) | `192.168.1.50` | AbuseIPDB | Private/RFC1918 range — internal host |
-|
 | Target Account | `admin` | Manual | High-privilege account |
 
 ---
